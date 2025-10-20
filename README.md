@@ -40,6 +40,7 @@ Cada prompt é um igual um feitiço, e cada ajuste, um passo em direção à mae
 
 Este projeto foi desenvolvido como uma fusão entre **criatividade humana e inteligência artificial**.  
 - O conteúdo foi criado com o apoio do **[ChatGPT](https://chatgpt.com)**;
+- As imagens utilizadas foi gerado no **[Leonard.AI](https://leonardo.ai)**;
 -  Todas as seções foram **revisadas manualmente**, para aplicabilidade real;
 - O design final do eBook foi produzido no **[Canva](https://canva.com)**, unindo tecnologia e estilo.  
 
