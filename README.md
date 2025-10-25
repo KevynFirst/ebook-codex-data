@@ -3,6 +3,13 @@
   <img alt="Logo" src="./preview.png" width="600px" />
 </p>
 
+<p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Dio-Course-blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Prompts-Project-purple">
+  <img alt="Static Badge" src="https://img.shields.io/badge/license-MIT-green">
+</p>
+
+
 <br>
 <p align="center">
 Bem-vindo, <strong>aventureiro dos dados!</strong> Este grimório digital foi forjado para ajudar Analistas de Dados a dominar o ChatGPT como uma <strong>ferramenta mágica de produtividade e insight.</strong>  
